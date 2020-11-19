@@ -1,3 +1,5 @@
+![](D:\Logos UTEC\Utec-logo.jpg)
+
 # POO2_Proyecto
 ## Simulador de Partículas
 ### Grupo 5
