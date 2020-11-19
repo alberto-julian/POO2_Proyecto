@@ -1,2 +1,5 @@
 # POO2_Proyecto
-Proyecto realizado por alumnos dedicado a la simulación de partículas
+## Simulador de Partículas
+### Grupo 5
+
+Proyecto realizado por alumnos dedicado generar una aplicación de la simulación de partículas.
