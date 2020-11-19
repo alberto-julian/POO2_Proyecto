@@ -1,4 +1,4 @@
-![](D:\Logos UTEC\Utec-logo.jpg)
+![Utec-logo](D:\Logos UTEC\Utec-logo.jpg)
 
 # POO2_Proyecto
 ## Simulador de Partículas
