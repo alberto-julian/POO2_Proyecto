@@ -127,5 +127,6 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 ## Bibliografía 🖇️
 
 > [EVENT-DRIVEN-SIMULATION](https://algs4.cs.princeton.edu/61event/).
+
 > [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
