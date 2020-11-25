@@ -107,7 +107,7 @@ _El proyecto al realizarse es condiciones ideales para su desarrollo y su aplica
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [SFML](https://www.sfml-dev.org/) - Libreria Grafica.
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 
