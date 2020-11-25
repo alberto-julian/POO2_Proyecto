@@ -24,7 +24,7 @@ Se hizo uso de la estructura enum para representar el estado de la partícula sa
 enum color {
     celeste,	// 0
     amarillo,	// 1
-    morado,		// 2
+    morado,	   // 2
     rojo      // 3
 };
 ```
